@@ -10,3 +10,10 @@ Store Username & Passwords, Server Addresses, DB Name & Port - for use with Data
 
 1. Secrets Manager - Database Creds, API Keys, Rotation of Keys.
 2. Parameter Store - Wider Use Cases, Configuration Variables, License Keys.
+
+### Exam Tips
+
+Centrally Manage Secrets and rotate them.
+
+RDS Database, Redshift Cluster, DocumentDB Database, and API Keys can be integrated with Secrets Manager. 
+
