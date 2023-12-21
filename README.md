@@ -1,6 +1,6 @@
 # aws-cert-dev
 
-Notebook for keeping all of my AWS Certified Developer notes together.
+Notebook for keeping all of my AWS Certified Developer notes together. Chapters 1-2 are unimportant as they were just overviews. Please use this once we get to the test review.
 
 ## Chapters
 
